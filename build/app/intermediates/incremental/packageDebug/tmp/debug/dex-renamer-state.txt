@@ -1,0 +1,4 @@
+#Mon Mar 13 04:30:36 CET 2023
+base.0=C\:\\Users\\bensa\\Downloads\\Flutter-main\\Flutter-main\\login_with_signup\\build\\app\\intermediates\\dex\\debug\\mergeDexDebug\\classes.dex
+renamed.0=classes.dex
+path.0=classes.dex
